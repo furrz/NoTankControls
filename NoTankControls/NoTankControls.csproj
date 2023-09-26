@@ -32,17 +32,20 @@
         <WarningLevel>4</WarningLevel>
     </PropertyGroup>
     <ItemGroup>
-        <Reference Include="0Harmony, Version=2.2.0.0, Culture=neutral, PublicKeyToken=null">
-          <HintPath>..\..\..\..\..\Neos\app\0Harmony.dll</HintPath>
+        <Reference Include="0Harmony">
+          <HintPath>D:\ResoDLL\0Harmony.dll</HintPath>
+        </Reference>
+        <Reference Include="BaseX">
+          <HintPath>D:\ResoDLL\BaseX.dll</HintPath>
         </Reference>
         <Reference Include="BaseX, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-          <HintPath>..\..\..\..\..\Neos\app\Neos_Data\Managed\BaseX.dll</HintPath>
+          <HintPath>D:\ResoDLL\BaseX.dll</HintPath>
         </Reference>
-        <Reference Include="FrooxEngine, Version=2021.11.10.1265, Culture=neutral, PublicKeyToken=null">
-          <HintPath>..\..\..\..\..\Neos\app\Neos_Data\Managed\FrooxEngine.dll</HintPath>
+        <Reference Include="FrooxEngine">
+          <HintPath>D:\ResoDLL\FrooxEngine.dll</HintPath>
         </Reference>
-        <Reference Include="NeosModLoader, Version=2022.1.15.1307, Culture=neutral, PublicKeyToken=null">
-          <HintPath>..\..\..\..\..\Neos\app\Libraries\NeosModLoader.dll</HintPath>
+        <Reference Include="ResoniteModLoader">
+          <HintPath>D:\ResoDLL\ResoniteModLoader.dll</HintPath>
         </Reference>
         <Reference Include="System" />
         <Reference Include="System.Core" />
