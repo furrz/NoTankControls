@@ -1,3 +1,5 @@
+# Please see [Gyztor/NoTankControls](https://github.com/Gyztor/NoTankControls) for an improved fork that's available on Thunderstore.
+
 # NoTankControls
 
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) and
